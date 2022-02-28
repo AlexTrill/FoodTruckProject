@@ -1,5 +1,5 @@
 # FoodTruckProject
-This project resembles a basic application in which the program takes in data from the user and assigns it to a selection of up to 5 food trucks. From there, the following menu gives the user a chance to pick between 4 options.
+This project is meant to resemble a basic application in which the program takes in data from the user and assigns it to a selection of up to 5 food trucks. From there, the following menu gives the user a chance to pick between 4 options.
 
 TO USE: Follow prompts in console to input data for up to 5 trucks, can optionally input quit when prompted for a food truck name to exit and continue on to the next menu. From there select whether you would like to either display all of the trucks, the average rating of the trucks, display the highest rated truck, or quit the program completely. 
 
